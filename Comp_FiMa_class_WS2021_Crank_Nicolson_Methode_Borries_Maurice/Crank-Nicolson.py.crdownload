@@ -32,10 +32,10 @@ def Ami_Put_Op(K, r, sigma, T, Smax, M, N):
                     A[j, i] = a[j]
 
 
-K = 50
-r = 0.1
-sigma = 0.4
-T = 0.4167
-Smax = 100
-M = 20
-N = 10
+K = 200
+r = 0.03
+sigma = 0.58
+T = 5
+Smax = 150
+M = 30
+N = 20
